@@ -1,7 +1,8 @@
 # Learning_Data_Journey 🚀
 
-**Day:** 1 of 120
-**Current Status:** Day 1 Complete! ✅
+**Day:** 3 of 120
+**Current Status:** Building Consistency 💪
+**Current Focus:** Excel Basics & Foundations
 
 ## 🎯 16-Week Roadmap
 
@@ -9,21 +10,40 @@
 **Dec 23-30, 2025**
 - ✅ Environment setup (Python, SQL, Jupyter) - **DONE Day 1**
 - ✅ GitHub repository created - **DONE Day 1**
-- ⏳ Excel basics and formulas
+- ⏳ Excel basics and formulas (In Progress - Day 3)
 - ⏳ Start SQL fundamentals
+- ⏳ Daily English practice (Ongoing)
 
 🏆 Milestones
+- [x] **Day 1:** Environment setup, GitHub repo, first commit (Dec 23) ✅
+- [x] **Day 2:** Challenges faced, lessons learned (Dec 24) 😔
+- [x] **Day 3:** Excel practice 4.5hrs, adjusting strategy (Dec 25) ⚠️ 
 
-- [x] **Day 1:** Environment setup, GitHub repo, first commit (Dec 23) 
+## 📈 Progress Tracker
 
+**Week 0 Summary (Days 1-3):**
+- Total Hours: ~10.5-11.5 hours
+- Average: ~3.5-4 hours/day
+- Trend: Building upward 📈
+- Goal: Reach 6 hours/day consistency
 
- 💪 Public Commitment
+**Daily Breakdown:**
+| Day | Hours | Status | Key Learning |
+|-----|-------|--------|--------------|
+| 1 | 5 hrs | ✅ Good | Setup complete |
+| 2 | 1-2 hrs | ❌ Struggled | Discipline needed |
+| 3 | 4.5 hrs | ⚠️ Progress | Morning works! |
+| 4 | - | 🎯 Target: 6hrs | - |
 
-I, Sourav , commit to:
-- 📅 Learning 8-10 hours daily for next 120 days
+**Next Milestone:** 3 consecutive days of 6+ hours
+
+💪 Public Commitment
+I, Sourav, commit to:
+- 📅 Learning consistently for next 120 days
 - 📊 Updating this GitHub repository regularly
 - 🤝 Learning in public and helping others
 - 💼 Landing my first job or internship
+- 🎯 **Current daily target: 6 hours** (building up to 8-10)
 
 **No excuses. Just execution.** 🔥
 
@@ -31,9 +51,8 @@ Connect With Me
 
 - **GitHub:** You're here! Give this repo a ⭐ if you're following my journey
 
-**Day 1 of 120 complete. 119 to go. Let's do this! 💪🚀**
 
-
+**Day 3 of 120 complete. 117 to go. Building consistency daily! 💪🚀**
 
 ## Day 1 - December 23, 2025
 
