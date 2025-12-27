@@ -1,6 +1,6 @@
 # Learning_Data_Journey 🚀
 
-**Day:** 4 of 120
+**Day:** 5 of 120
 **Current Status:** Building Consistency 💪
 **Current Focus:** Excel Basics & Foundations
 
@@ -365,3 +365,26 @@ Tomorrow = Continue building. Realistic goals. Steady progress. 💪
 **Mood:** 😐 Adapted well, but need consistency.
 
 ---
+
+
+### Day 5 - December 27, 2025 ⚠️
+
+**Status:** Career research day
+
+**Time Invested:** 2-3 hours (Role clarity)
+
+**What I Did:**
+Spent today understanding career paths instead of blind studying:
+- ✅ Researched Data Analyst vs Engineer vs Scientist
+- ✅ Compared skills, requirements, timelines
+- ✅ **Decision: Targeting Data Analyst first**
+
+**Why Data Analyst:**
+- Entry-level friendly
+- Core skills: Excel, SQL, Power BI
+- 4-6 months realistic timeline
+- Clear progression path
+
+**Key Insight:**
+Direction matters as much as effort. Days 1-5 lacked focus. Now I have a clear target role and skill roadmap.
+
